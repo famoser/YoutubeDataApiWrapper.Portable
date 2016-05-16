@@ -1,14 +1,10 @@
-﻿using System;
-using System.Threading;
+﻿using System.Threading;
 using System.Threading.Tasks;
 using Famoser.YoutubeDataApiWrapper.Portable.RequestBuilders;
 using Famoser.YoutubeDataApiWrapper.Portable.RequestServices;
 using Famoser.YoutubeDataApiWrapper.Portable.Util;
-using Google.Apis.YouTube.v3;
-using Google.Apis.YouTube.v3.Data;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace YouTubeDataApiWrapper.IntegrationTests
+namespace Famoser.YoutubeDataApiWrapper.Portable.IntegrationTests
 {
     [TestClass]
     public class TestYouTubeListRequestService

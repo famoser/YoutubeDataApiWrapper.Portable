@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Famoser.YoutubeDataApiWrapper.Portable</id>
+        <version>1.0.2</version>
+        <authors>Florian Moser</authors>
+        <projectUrl>https://github.com/famoser/YoutubeDataApiWrapper.Portable</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A small C# libary that wraps the Google.Apis.YouTube .NET client. This package is portable Version of YoutubeDataApiWrapper. </description>
+        <releaseNotes>initial release</releaseNotes>
+		<dependencies>
+			<dependency id="Google.Apis.YouTube.v3" />
+		</dependencies>
+    </metadata>
+    <files>
+	    <file src="Famoser.YoutubeDataApiWrapper.Portable\bin\Release\Famoser.YoutubeDataApiWrapper.Portable.dll" target="lib\dotnet\Famoser.YoutubeDataApiWrapper.Portable.dll" />
+        <file src="Famoser.YoutubeDataApiWrapper.Portable\bin\Release\Famoser.YoutubeDataApiWrapper.Portable.dll" target="lib\portable-net45+win8+wpa81+wp8\Famoser.YoutubeDataApiWrapper.Portable.dll" />
+        <file src="Famoser.YoutubeDataApiWrapper.Portable\bin\Release\Famoser.YoutubeDataApiWrapper.Portable.dll" target="lib\Famoser.YoutubeDataApiWrapper.Portable.dll" />
+    </files>
+</package>

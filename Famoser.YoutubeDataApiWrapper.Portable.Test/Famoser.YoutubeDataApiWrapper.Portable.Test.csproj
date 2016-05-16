@@ -6,8 +6,8 @@
     <ProjectGuid>{3B79415E-38DE-4483-B3B0-DBA06008A4B1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>YouTubeDataApiWrapper.Test</RootNamespace>
-    <AssemblyName>YouTubeDataApiWrapper.Test</AssemblyName>
+    <RootNamespace>Famoser.YoutubeDataApiWrapper.Portable.Test</RootNamespace>
+    <AssemblyName>Famoser.YoutubeDataApiWrapper.Portable.Test</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -126,11 +126,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestPageTokenGen.cs" />
     <Compile Include="TestPageTokenRequestRange.cs" />
-    <Compile Include="TestYoutubeListRequestService.cs" />
     <Compile Include="TestYoutubeServiceEquality.cs" />
-    <Compile Include="TestMultiRequest.cs" />
-    <Compile Include="TestMultiBatchRequest.cs" />
-    <Compile Include="UnitTest1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config">

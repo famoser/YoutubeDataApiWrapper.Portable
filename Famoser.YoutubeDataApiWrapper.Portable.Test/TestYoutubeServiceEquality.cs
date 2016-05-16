@@ -7,7 +7,7 @@ using Google.Apis.Services;
 using Google.Apis.YouTube.v3;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace YouTubeDataApiWrapper.Test
+namespace Famoser.YoutubeDataApiWrapper.Portable.Test
 {
     [TestClass]
     public class TestYoutubeServiceEquality
@@ -75,9 +75,5 @@ namespace YouTubeDataApiWrapper.Test
                 ApiKey = apiKey
             });
         }
-
-
-
-
     }
 }

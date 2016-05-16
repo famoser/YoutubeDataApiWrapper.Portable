@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace YouTubeDataApiWrapper.IntegrationTests
+﻿namespace Famoser.YoutubeDataApiWrapper.Portable.IntegrationTests
 {
     class ConfigurationSample //Rename to "Configuration"
     {

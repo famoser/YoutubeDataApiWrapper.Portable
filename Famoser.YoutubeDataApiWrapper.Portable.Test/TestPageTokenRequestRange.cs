@@ -3,7 +3,7 @@ using System.Linq;
 using Famoser.YoutubeDataApiWrapper.Portable.Util;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace YouTubeDataApiWrapper.Test
+namespace Famoser.YoutubeDataApiWrapper.Portable.Test
 {
     [TestClass]
     public class TestPageTokenRequestRange

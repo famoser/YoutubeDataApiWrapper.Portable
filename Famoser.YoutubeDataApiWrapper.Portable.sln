@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeDataApiWrapper.Test", "YouTubeDataApiWrapper.Test\YouTubeDataApiWrapper.Test.csproj", "{3B79415E-38DE-4483-B3B0-DBA06008A4B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Famoser.YoutubeDataApiWrapper.Portable.Test", "Famoser.YoutubeDataApiWrapper.Portable.Test\Famoser.YoutubeDataApiWrapper.Portable.Test.csproj", "{3B79415E-38DE-4483-B3B0-DBA06008A4B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeDataApiWrapper.IntegrationTests", "YouTubeDataApiWrapper.IntegrationTests\YouTubeDataApiWrapper.IntegrationTests.csproj", "{FEE847BC-8342-4B13-A52F-D2BC8D360372}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Famoser.YoutubeDataApiWrapper.Portable.IntegrationTests", "Famoser.YoutubeDataApiWrapper.Portable.IntegrationTests\Famoser.YoutubeDataApiWrapper.Portable.IntegrationTests.csproj", "{FEE847BC-8342-4B13-A52F-D2BC8D360372}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Famoser.YoutubeDataApiWrapper.Portable", "Famoser.YoutubeDataApiWrapper.Portable\Famoser.YoutubeDataApiWrapper.Portable.csproj", "{8A405103-D20B-4C96-9ABE-1F8D3C8DBC8E}"
 EndProject

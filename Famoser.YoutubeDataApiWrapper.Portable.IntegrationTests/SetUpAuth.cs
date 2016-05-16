@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Google.Apis.Auth.OAuth2;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace YouTubeDataApiWrapper.IntegrationTests
+namespace Famoser.YoutubeDataApiWrapper.Portable.IntegrationTests
 {
     [TestClass]
     public class SetUpAuth

@@ -1,8 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-
-namespace YouTubeDataApiWrapper.Test
+﻿namespace Famoser.YoutubeDataApiWrapper.Portable.IntegrationTests
 {
-    //TODO: 
     [TestClass]
     public class TestMultiRequest
     {
